@@ -1,7 +1,7 @@
-Hi 👋 My name is Arnab
+Hi 👋 I'm Arnab
 ======================
 
-Web Developer | CPP Coder | AR Lover | Blockchain Enthusiast
+Web Developer | CPP Coder | AR Lover | Blockchain & AI Enthusiast
 ------------------------------------------------------------
 
 * 🌍  I'm based in Jadavpur, Kolkata
