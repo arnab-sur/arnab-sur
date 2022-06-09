@@ -6,7 +6,7 @@ Web Developer | Code in Java | Blockchain & AI Enthusiast
 
 * 🌍  I'm based in Jadavpur, Kolkata
 * ✉️  You can contact me at [me.arnabsur@gmail.com](mailto:me.arnabsur@gmail.com)
-* 🧠  I'm learning Augmented Reality
+* 🧠  I'm learning React and Next.js
 * 🤝  I'm open to collaborating on Frontend Web Projects
 
 ### Skills
