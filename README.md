@@ -4,6 +4,8 @@ Hi 👋 I'm Arnab
 Web Developer | Code in Java | Blockchain & AI Enthusiast
 ------------------------------------------------------------
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-sur&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-sur" /> </p>
+
 * 🌍  I'm based in Jadavpur, Kolkata
 * ✉️  You can contact me at [me.arnabsur@gmail.com](mailto:me.arnabsur@gmail.com)
 * 🧠  I'm learning React and Next.js
